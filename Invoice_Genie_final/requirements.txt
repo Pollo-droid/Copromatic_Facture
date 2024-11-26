@@ -19,3 +19,4 @@ python-dotenv
 google-generativeai
 pdf2image
 fastapi_utils
+openai
